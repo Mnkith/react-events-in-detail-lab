@@ -1,5 +1,5 @@
 # React Events in Detail
-
+ 
 ## Overview
 
 In this lab, we will practice using event data and persisting events. We will be
